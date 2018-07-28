@@ -1,2 +1,12 @@
+# Yarn Integrity file
+.yarn-Integrity
+
+# dotenv environment variables file
 *.js
 *.js.map
+.evn
+dist
+node_modules
+
+yarn.lock
+package-lock.json
